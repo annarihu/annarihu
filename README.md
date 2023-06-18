@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anna
+- 👋 Hi, I’m <strong> Anna </strong>
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Full-stack javascript and python projects
