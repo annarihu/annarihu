@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Full-stack javascript and python projects
-- 📫 How to reach me [Anna Arihu](https://github.com/annarihu/issues)
+- 📫 How to reach me [Anna Arihu](https://github.com/annarihu/annarihu/issues)
 
 <!---
 annarihu/annarihu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
